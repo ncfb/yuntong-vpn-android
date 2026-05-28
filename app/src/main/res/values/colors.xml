@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF42A5F5</color>
+    <color name="primary_dark">#FF1565C0</color>
+    <color name="accent">#FF64FFDA</color>
+    <color name="background">#FF0D1117</color>
+    <color name="surface">#FF161B22</color>
+    <color name="error">#FFFF5252</color>
+    <color name="success">#FF00E676</color>
+    <color name="connected_green">#FF00C853</color>
+    <color name="connecting_blue">#FF2979FF</color>
+</resources>

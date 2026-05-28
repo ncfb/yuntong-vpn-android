@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云通VPN</string>
+    <string name="vpn_connect">连接</string>
+    <string name="vpn_disconnect">断开</string>
+    <string name="vpn_connecting">连接中...</string>
+    <string name="vpn_connected">已连接</string>
+    <string name="vpn_disconnected">未连接</string>
+    <string name="vpn_error">连接失败</string>
+    <string name="select_server">选择服务器</string>
+    <string name="speed_upload">上传</string>
+    <string name="speed_download">下载</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="email">邮箱</string>
+    <string name="password">密码</string>
+    <string name="sign_out">退出登录</string>
+    <string name="account">账户</string>
+    <string name="servers">服务器</string>
+    <string name="about">关于</string>
+    <string name="settings">设置</string>
+    <string name="notification_channel_name">VPN连接状态</string>
+    <string name="notification_connected">已连接到 %s</string>
+</resources>
